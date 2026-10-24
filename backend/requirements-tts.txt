@@ -30,7 +30,7 @@ chatterbox-tts==0.1.7
 
 # Pinned to match what chatterbox-tts 0.1.7 itself requires, so this file
 # resolves on its own rather than relying on pip to backtrack.
-torch==2.6.0
+torch==2.13.0
 torchaudio==2.6.0
-transformers==5.2.0
+transformers==5.10.1
 librosa==0.11.0
